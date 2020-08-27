@@ -107,3 +107,10 @@ double grade = 4   //declares a double and assigns a value of 4.0
 
 double avg = 11 / 2    //stores the value 5.0.  WHY? 
 ```
+
+Things to consider with assignment and types
+1. A variable can only store a value of its own type. 
+2. An `int` value can be stored in a `double` variable.  (the reverse is not true)
+3. A variable can't be used until it is assigned a value
+4. You can't declare a variable twice
+
